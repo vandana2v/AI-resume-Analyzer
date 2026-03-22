@@ -1,0 +1,6 @@
+SECRET_KEY = "SECRET123"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
+
+MONGO_URL = "mongodb://localhost:27017"
+DB_NAME = "ai_resume_db"
